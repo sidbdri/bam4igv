@@ -5,10 +5,73 @@ longLabel bamTest_7_153845692
 type bam
 visibility full
 
-
-track coverageTest_7_153845692
-bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/DPP6/coverage.bw
-shortLabel coverageTest_7_153845692
-longLabel coverageTest_7_153845692
+track KO1_Coverage
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358427b9ace95ecf74/display?to_ext=bigwig
+shortLabel KO1_Coverage
+longLabel KO1_Coverage
 type bigWig
 visibility full
+
+track KO2_Coverage
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e5f0ea3bc05edd3c/display?to_ext=bigwig
+shortLabel KO2_Coverage
+longLabel KO2_Coverage
+type bigWig
+visibility full
+
+track KO3_Coverage
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b850e1db1dbbfa14/display?to_ext=bigwig
+shortLabel KO3_Coverage
+longLabel KO3_Coverage
+type bigWig
+visibility full
+
+track KO4_Coverage
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213530fa850cc4d5f0b4/display?to_ext=bigwig
+shortLabel KO4_Coverage
+longLabel KO4_Coverage
+type bigWig
+visibility full
+
+track KO5_Coverage
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355bf6f02d15da7259/display?to_ext=bigwig
+shortLabel KO5_Coverage
+longLabel KO5_Coverage
+type bigWig
+visibility full
+
+track WT1_Coverage
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213502bdf46d391616c6/display?to_ext=bigwig
+shortLabel WT1_Coverage
+longLabel WT1_Coverage
+type bigWig
+visibility full
+
+track WT2_Coverage
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135246c2bb3d42ce286/display?to_ext=bigwig
+shortLabel WT2_Coverage
+longLabel WT2_Coverage
+type bigWig
+visibility full
+
+track WT3_Coverage
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f37274d66da2a13f/display?to_ext=bigwig
+shortLabel WT3_Coverage
+longLabel WT3_Coverage
+type bigWig
+visibility full
+
+track WT4_Coverage
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357ffc40663d9f78db/display?to_ext=bigwig
+shortLabel WT4_Coverage
+longLabel WT4_Coverage
+type bigWig
+visibility full
+
+track WT5_Coverage
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213512c4a18749e63c89/display?to_ext=bigwig
+shortLabel WT5_Coverage
+longLabel WT5_Coverage
+type bigWig
+visibility full
+
