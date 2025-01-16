@@ -5,6 +5,13 @@ longLabel bamTest_7_153845692
 type bam
 visibility full
 
+track bamTest_7_153748133_154894285
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/DPP6/7:153748133-154894285_KO1_reads_aln_sorted.bam
+shortLabel bamTest_7_153748133_154894285
+longLabel bamTest_7_153748133_154894285
+type bam
+visibility dense
+
 track KO1_Coverage
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358427b9ace95ecf74/display?to_ext=bigwig
 shortLabel KO1_Coverage
