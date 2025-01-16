@@ -1,4 +1,4 @@
-track  bamTest_7_153845692
+track bamTest_7_153845692
 bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/DPP6/test.bam
 shortLabel bamTest_7_153845692
 longLabel bamTest_7_153845692
