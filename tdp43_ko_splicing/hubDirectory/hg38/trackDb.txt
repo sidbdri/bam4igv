@@ -85,10 +85,10 @@ type bigWig
 priority 10
 visibility dense
 
-track KO_BAM_Group
+track KO_BAM_Group_DPP6
 compositeTrack on
-shortLabel KO BAM Group
-longLabel KO BAM Group
+shortLabel KO BAM Group DPP6
+longLabel KO BAM Group DPP6
 visibility dense
 type bam
 
@@ -106,4 +106,75 @@ bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splic
 shortLabel KO2_BAM
 longLabel KO2_BAM
 subGroup1 view views KO2
+type bam
+
+track KO3_BAM
+parent KO_BAM_Group off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/DPP6/7:153748133-154894285_KO3_reads_aln_sorted.bam
+shortLabel KO3_BAM
+longLabel KO3_BAM
+subGroup1 view views KO3
+type bam
+
+track KO4_BAM
+parent KO_BAM_Group off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/DPP6/7:153748133-154894285_KO4_reads_aln_sorted.bam
+shortLabel KO4_BAM
+longLabel KO4_BAM
+subGroup1 view views KO4
+type bam
+
+track KO5_BAM
+parent KO_BAM_Group off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/DPP6/7:153748133-154894285_KO5_reads_aln_sorted.bam
+shortLabel KO5_BAM
+longLabel KO5_BAM
+subGroup1 view views KO5
+type bam
+
+track WT_BAM_Group_DPP6
+compositeTrack on
+shortLabel WT BAM Group DPP6
+longLabel WT BAM Group DPP6
+visibility dense
+type bam
+
+track WT1_BAM
+parent WT_BAM_Group off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/DPP6/7:153748133-154894285_WT1_reads_aln_sorted.bam
+shortLabel WT1_BAM
+longLabel WT1_BAM
+subGroup1 view views WT1
+type bam
+
+track WT2_BAM
+parent WT_BAM_Group off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/DPP6/7:153748133-154894285_WT2_reads_aln_sorted.bam
+shortLabel WT2_BAM
+longLabel WT2_BAM
+subGroup1 view views WT2
+type bam
+
+track WT3_BAM
+parent WT_BAM_Group off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/DPP6/7:153748133-154894285_WT3_reads_aln_sorted.bam
+shortLabel WT3_BAM
+longLabel WT3_BAM
+subGroup1 view views WT3
+type bam
+
+track WT4_BAM
+parent WT_BAM_Group off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/DPP6/7:153748133-154894285_WT4_reads_aln_sorted.bam
+shortLabel WT4_BAM
+longLabel WT4_BAM
+subGroup1 view views WT4
+type bam
+
+track WT5_BAM
+parent WT_BAM_Group off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/DPP6/7:153748133-154894285_WT5_reads_aln_sorted.bam
+shortLabel WT5_BAM
+longLabel WT5_BAM
+subGroup1 view views WT5
 type bam
