@@ -1,2 +1,3 @@
 genome hg19
 trackDb hg19/trackDb.txt
+browserPosition chr7:153845692-153845792
