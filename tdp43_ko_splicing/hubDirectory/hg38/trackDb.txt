@@ -84,3 +84,26 @@ longLabel WT5_Coverage
 type bigWig
 priority 10
 visibility dense
+
+track KO_BAM_Group
+compositeTrack on
+shortLabel KO BAM Group
+longLabel KO BAM Group
+visibility dense
+type bam
+
+track KO1_BAM
+parent KO_BAM_Group off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/DPP6/7:153748133-154894285_KO1_reads_aln_sorted.bam
+shortLabel KO1_BAM
+longLabel KO1_BAM
+subGroup1 view views KO1
+type bam
+
+track KO2_BAM
+parent KO_BAM_Group off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/DPP6/7:153748133-154894285_KO2_reads_aln_sorted.bam
+shortLabel KO2_BAM
+longLabel KO2_BAM
+subGroup1 view views KO2
+type bam
