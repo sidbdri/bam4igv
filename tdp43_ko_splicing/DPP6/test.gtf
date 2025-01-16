@@ -1,10 +1,10 @@
-1	StringTie	transcript	89295	120932	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000466430"; ref_gene_id "ENSG00000238009"; 
-1	StringTie	exon	89295	91629	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000466430"; exon_number "1"; ref_gene_id "ENSG00000238009"; 
-1	StringTie	exon	92091	92240	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000466430"; exon_number "2"; ref_gene_id "ENSG00000238009"; 
-1	StringTie	exon	112700	112804	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000466430"; exon_number "3"; ref_gene_id "ENSG00000238009"; 
-1	StringTie	exon	120775	120932	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000466430"; exon_number "4"; ref_gene_id "ENSG00000238009"; 
-1	StringTie	transcript	89551	91629	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000495576"; ref_gene_id "ENSG00000239945"; 
-1	StringTie	exon	89551	90050	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000495576"; exon_number "1"; ref_gene_id "ENSG00000239945"; 
-1	StringTie	exon	90287	91629	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000495576"; exon_number "2"; ref_gene_id "ENSG00000239945"; 
-1	StringTie	transcript	92230	129223	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000477740"; ref_gene_id "ENSG00000238009"; 
-1	StringTie	exon	92230	92240	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000477740"; exon_number "1"; ref_gene_id "ENSG00000238009"; 
+track type=gtf
+# stringtie --rf --merge -G amended.Homo_sapiens.GRCh38.109.gtf -p 2 -o stringtie.gtf query_annotations/KO1_annotated.gtf query_annotations/KO2_annotated.gtf query_annotations/KO3_annotated.gtf query_annotations/KO4_annotated.gtf query_annotations/KO5_annotated.gtf query_annotations/WT1_annotated.gtf query_annotations/WT2_annotated.gtf query_annotations/WT3_annotated.gtf query_annotations/WT4_annotated.gtf query_annotations/WT5_annotated.gtf
+# StringTie version 2.1.1
+chr1	StringTie	transcript	89295	120932	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000466430"; ref_gene_id "ENSG00000238009"; 
+chr1	StringTie	exon	89295	91629	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000466430"; exon_number "1"; ref_gene_id "ENSG00000238009"; 
+chr1	StringTie	exon	92091	92240	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000466430"; exon_number "2"; ref_gene_id "ENSG00000238009"; 
+chr1	StringTie	exon	112700	112804	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000466430"; exon_number "3"; ref_gene_id "ENSG00000238009"; 
+chr1	StringTie	exon	120775	120932	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000466430"; exon_number "4"; ref_gene_id "ENSG00000238009"; 
+chr1	StringTie	transcript	89551	91629	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000495576"; ref_gene_id "ENSG00000239945"; 
+chr1	StringTie	exon	89551	90050	1000	-	.	gene_id "MSTRG.1"; transcript_id "ENST00000495576"; exon_number "1"; ref_gene_id "ENSG00000239945"; 
