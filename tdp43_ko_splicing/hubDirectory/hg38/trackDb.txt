@@ -4,3 +4,11 @@ shortLabel bamTest_7_153845692
 longLabel bamTest_7_153845692
 type bam
 visibility full
+
+
+track coverageTest_7_153845692
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/DPP6/coverage.bw
+shortLabel coverageTest_7_153845692
+longLabel coverageTest_7_153845692
+type bigWig
+visibility full
