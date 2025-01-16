@@ -1,10 +1,3 @@
-track bamTest_7_153845692
-bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/DPP6/test.bam
-shortLabel bamTest_7_153845692
-longLabel bamTest_7_153845692
-type bam
-visibility full
-
 track bamTest_7_153748133_154894285
 bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/DPP6/7:153748133-154894285_KO1_reads_aln_sorted.bam
 shortLabel bamTest_7_153748133_154894285
