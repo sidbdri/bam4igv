@@ -84,12 +84,3 @@ longLabel WT5_Coverage
 type bigWig
 priority 10
 visibility dense
-
-track stringtieGTF
-shortLabel stringtieGTF
-longLabel stringtieGTF
-type gtf
-priority 11
-visibility full
-url https://usegalaxy.org/api/datasets/f9cad7b01a472135868987fc3929edfc/display?to_ext=tabular
-
