@@ -10,6 +10,7 @@ bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358427b9ace95ecf74/d
 shortLabel KO1_Coverage
 longLabel KO1_Coverage
 type bigWig
+priority 1
 visibility full
 
 track KO2_Coverage
@@ -17,6 +18,7 @@ bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e5f0ea3bc05edd3c/d
 shortLabel KO2_Coverage
 longLabel KO2_Coverage
 type bigWig
+priority 2
 visibility dense
 
 track KO3_Coverage
@@ -24,6 +26,7 @@ bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b850e1db1dbbfa14/d
 shortLabel KO3_Coverage
 longLabel KO3_Coverage
 type bigWig
+priority 3
 visibility dense
 
 track KO4_Coverage
@@ -31,6 +34,7 @@ bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213530fa850cc4d5f0b4/d
 shortLabel KO4_Coverage
 longLabel KO4_Coverage
 type bigWig
+priority 4
 visibility dense
 
 track KO5_Coverage
@@ -38,6 +42,7 @@ bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355bf6f02d15da7259/d
 shortLabel KO5_Coverage
 longLabel KO5_Coverage
 type bigWig
+priority 5
 visibility dense
 
 track WT1_Coverage
@@ -45,6 +50,7 @@ bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213502bdf46d391616c6/d
 shortLabel WT1_Coverage
 longLabel WT1_Coverage
 type bigWig
+priority 6
 visibility full
 
 track WT2_Coverage
@@ -52,6 +58,7 @@ bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135246c2bb3d42ce286/d
 shortLabel WT2_Coverage
 longLabel WT2_Coverage
 type bigWig
+priority 7
 visibility dense
 
 track WT3_Coverage
@@ -59,6 +66,7 @@ bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f37274d66da2a13f/d
 shortLabel WT3_Coverage
 longLabel WT3_Coverage
 type bigWig
+priority 8
 visibility dense
 
 track WT4_Coverage
@@ -66,6 +74,7 @@ bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357ffc40663d9f78db/d
 shortLabel WT4_Coverage
 longLabel WT4_Coverage
 type bigWig
+priority 9
 visibility dense
 
 track WT5_Coverage
@@ -73,12 +82,14 @@ bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213512c4a18749e63c89/d
 shortLabel WT5_Coverage
 longLabel WT5_Coverage
 type bigWig
+priority 10
 visibility dense
 
 track stringtieGTF
 shortLabel stringtieGTF
 longLabel stringtieGTF
 type gtf
+priority 11
 visibility full
 url https://usegalaxy.org/api/datasets/f9cad7b01a472135868987fc3929edfc/display?to_ext=tabular
 
