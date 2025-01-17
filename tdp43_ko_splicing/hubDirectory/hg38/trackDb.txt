@@ -85,6 +85,13 @@ type bigWig
 priority 10
 visibility dense
 
+track WT1_BAM
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ac94083191ed8acb/display?to_ext=bam
+shortLabel WT1_BAM
+longLabel WT1_BAM
+type bam
+visibility dense
+
 track KO_BAM_Group_DPP6
 compositeTrack on
 shortLabel KO BAM Group DPP6
