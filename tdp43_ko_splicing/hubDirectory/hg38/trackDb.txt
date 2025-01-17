@@ -178,3 +178,191 @@ shortLabel WT5_BAM_DPP6
 longLabel WT5_BAM_DPP6
 subGroup1 view views WT5
 type bam
+
+track KO_BAM_Group_STNM2
+compositeTrack on
+shortLabel KO BAM Group STNM2
+longLabel KO BAM Group STNM2 8:79611117-79666158
+visibility dense
+type bam
+
+track KO1_BAM_STNM2
+parent KO_BAM_Group_STNM2 off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/STNM2/8:79611117-79666158_KO1_reads_aln_sorted.bam
+shortLabel KO1_BAM_STNM2
+longLabel KO1_BAM_STNM2
+subGroup1 view views KO1
+type bam
+
+track KO2_BAM_STNM2
+parent KO_BAM_Group_STNM2 off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/STNM2/8:79611117-79666158_KO2_reads_aln_sorted.bam
+shortLabel KO2_BAM_STNM2
+longLabel KO2_BAM_STNM2
+subGroup1 view views KO2
+type bam
+
+track KO3_BAM_STNM2
+parent KO_BAM_Group_STNM2 off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/STNM2/8:79611117-79666158_KO3_reads_aln_sorted.bam
+shortLabel KO3_BAM_STNM2
+longLabel KO3_BAM_STNM2
+subGroup1 view views KO3
+type bam
+
+track KO4_BAM_STNM2
+parent KO_BAM_Group_STNM2 off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/STNM2/8:79611117-79666158_KO4_reads_aln_sorted.bam
+shortLabel KO4_BAM_STNM2
+longLabel KO4_BAM_STNM2
+subGroup1 view views KO4
+type bam
+
+track KO5_BAM_STNM2
+parent KO_BAM_Group_STNM2 off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/STNM2/8:79611117-79666158_KO5_reads_aln_sorted.bam
+shortLabel KO5_BAM_STNM2
+longLabel KO5_BAM_STNM2
+subGroup1 view views KO5
+type bam
+
+track WT_BAM_Group_STNM2
+compositeTrack on
+shortLabel WT BAM Group STNM2
+longLabel WT BAM Group STNM2 8:79611117-79666158
+visibility dense
+type bam
+
+track WT1_BAM_STNM2
+parent WT_BAM_Group_STNM2 off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/STNM2/8:79611117-79666158_WT1_reads_aln_sorted.bam
+shortLabel WT1_BAM_STNM2
+longLabel WT1_BAM_STNM2
+subGroup1 view views WT1
+type bam
+
+track WT2_BAM_STNM2
+parent WT_BAM_Group_STNM2 off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/STNM2/8:79611117-79666158_WT2_reads_aln_sorted.bam
+shortLabel WT2_BAM_STNM2
+longLabel WT2_BAM_STNM2
+subGroup1 view views WT2
+type bam
+
+track WT3_BAM_STNM2
+parent WT_BAM_Group_STNM2 off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/STNM2/8:79611117-79666158_WT3_reads_aln_sorted.bam
+shortLabel WT3_BAM_STNM2
+longLabel WT3_BAM_STNM2
+subGroup1 view views WT3
+type bam
+
+track WT4_BAM_STNM2
+parent WT_BAM_Group_STNM2 off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/STNM2/8:79611117-79666158_WT4_reads_aln_sorted.bam
+shortLabel WT4_BAM_STNM2
+longLabel WT4_BAM_STNM2
+subGroup1 view views WT4
+type bam
+
+track WT5_BAM_STNM2
+parent WT_BAM_Group_STNM2 off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/STNM2/8:79611117-79666158_WT5_reads_aln_sorted.bam
+shortLabel WT5_BAM_STNM2
+longLabel WT5_BAM_STNM2
+subGroup1 view views WT5
+type bam
+
+track KO_BAM_Group_UNC13A
+compositeTrack on
+shortLabel KO BAM Group UNC13A
+longLabel KO BAM Group UNC13A 19:17601336-17688365
+visibility dense
+type bam
+
+track KO1_BAM_UNC13A
+parent KO_BAM_Group_UNC13A off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/UNC13A/19:17601336-17688365_KO1_reads_aln_sorted.bam
+shortLabel KO1_BAM_UNC13A
+longLabel KO1_BAM_UNC13A
+subGroup1 view views KO1
+type bam
+
+track KO2_BAM_UNC13A
+parent KO_BAM_Group_UNC13A off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/UNC13A/19:17601336-17688365_KO2_reads_aln_sorted.bam
+shortLabel KO2_BAM_UNC13A
+longLabel KO2_BAM_UNC13A
+subGroup1 view views KO2
+type bam
+
+track KO3_BAM_UNC13A
+parent KO_BAM_Group_UNC13A off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/UNC13A/19:17601336-17688365_KO3_reads_aln_sorted.bam
+shortLabel KO3_BAM_UNC13A
+longLabel KO3_BAM_UNC13A
+subGroup1 view views KO3
+type bam
+
+track KO4_BAM_UNC13A
+parent KO_BAM_Group_UNC13A off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/UNC13A/19:17601336-17688365_KO4_reads_aln_sorted.bam
+shortLabel KO4_BAM_UNC13A
+longLabel KO4_BAM_UNC13A
+subGroup1 view views KO4
+type bam
+
+track KO5_BAM_UNC13A
+parent KO_BAM_Group_UNC13A off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/UNC13A/19:17601336-17688365_KO5_reads_aln_sorted.bam
+shortLabel KO5_BAM_UNC13A
+longLabel KO5_BAM_UNC13A
+subGroup1 view views KO5
+type bam
+
+track WT_BAM_Group_UNC13A
+compositeTrack on
+shortLabel WT BAM Group UNC13A
+longLabel WT BAM Group UNC13A 19:17601336-17688365
+visibility dense
+type bam
+
+track WT1_BAM_UNC13A
+parent WT_BAM_Group_UNC13A off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/UNC13A/19:17601336-17688365_WT1_reads_aln_sorted.bam
+shortLabel WT1_BAM_UNC13A
+longLabel WT1_BAM_UNC13A
+subGroup1 view views WT1
+type bam
+
+track WT2_BAM_UNC13A
+parent WT_BAM_Group_UNC13A off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/UNC13A/19:17601336-17688365_WT2_reads_aln_sorted.bam
+shortLabel WT2_BAM_UNC13A
+longLabel WT2_BAM_UNC13A
+subGroup1 view views WT2
+type bam
+
+track WT3_BAM_UNC13A
+parent WT_BAM_Group_UNC13A off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/UNC13A/19:17601336-17688365_WT3_reads_aln_sorted.bam
+shortLabel WT3_BAM_UNC13A
+longLabel WT3_BAM_UNC13A
+subGroup1 view views WT3
+type bam
+
+track WT4_BAM_UNC13A
+parent WT_BAM_Group_UNC13A off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/UNC13A/19:17601336-17688365_WT4_reads_aln_sorted.bam
+shortLabel WT4_BAM_UNC13A
+longLabel WT4_BAM_UNC13A
+subGroup1 view views WT4
+type bam
+
+track WT5_BAM_UNC13A
+parent WT_BAM_Group_UNC13A off
+bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/tdp43_ko_splicing/UNC13A/19:17601336-17688365_WT5_reads_aln_sorted.bam
+shortLabel WT5_BAM_UNC13A
+longLabel WT5_BAM_UNC13A
+subGroup1 view views WT5
+type bam
