@@ -2,7 +2,7 @@ track KO1_Coverage
 bigDataUrl https://github.com/sidbdri/bam4igv/blob/main/nrf2_ko/astrocytes/KO_S12_218.bw
 shortLabel KO_S12_218
 longLabel KO_S12_218
-type bam
+type bigWig
 priority 1
 visibility full
 
