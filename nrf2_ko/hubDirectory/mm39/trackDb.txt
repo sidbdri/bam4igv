@@ -1,5 +1,5 @@
 track KO1_Coverage
-bigDataUrl https://github.com/sidbdri/bam4igv/raw/refs/heads/main/nrf2_ko/astrocytes/KO_S12_218.bw
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354bc54e199efdffbd/display?to_ext=bigwig
 shortLabel KO_S12_218
 longLabel KO_S12_218
 type bigWig
