@@ -1,0 +1,80 @@
+track FLOX_S17
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f834446e2f8575ad/display?to_ext=bigwig
+shortLabel FLOX_S17
+longLabel FLOX_S17
+type bigWig
+priority 1
+visibility full
+
+track FLOX_S18
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135de4d11f4aaaede49/display?to_ext=bigwig
+shortLabel FLOX_S18
+longLabel FLOX_S18
+type bigWig
+priority 1
+visibility full
+
+track FLOX_S19
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c9142196ce2ea211/display?to_ext=bigwig
+shortLabel FLOX_S19
+longLabel FLOX_S19
+type bigWig
+priority 1
+visibility full
+
+track FLOX_S20
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213511f48cc7a7831ccd/display?to_ext=bigwig
+shortLabel FLOX_S20
+longLabel FLOX_S20
+type bigWig
+priority 1
+visibility full
+
+track FLOX_S6
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352e77910aff1e16ea/display?to_ext=bigwig
+shortLabel FLOX_S6
+longLabel FLOX_S6
+type bigWig
+priority 1
+visibility full
+
+track FLOX_S7
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213572b539e8944d9435/display?to_ext=bigwig
+shortLabel FLOX_S7
+longLabel FLOX_S7
+type bigWig
+priority 1
+visibility full
+
+track KO_S16
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213532af8a7e3ed4fecb/display?to_ext=bigwig
+shortLabel KO_S16
+longLabel KO_S16
+type bigWig
+priority 1
+visibility full
+
+track KO_S21
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e1e59be75fdd3dea/display?to_ext=bigwig
+shortLabel KO_S21
+longLabel KO_S21
+type bigWig
+priority 1
+visibility full
+
+track KO_S22
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213516d4f8662eea9537/display?to_ext=bigwig
+shortLabel KO_S22
+longLabel KO_S22
+type bigWig
+priority 1
+visibility full
+
+track KO_S5
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213512139a5fb048ab47/display?to_ext=bigwig
+shortLabel KO_S5
+longLabel KO_S5
+type bigWig
+priority 1
+visibility full
+

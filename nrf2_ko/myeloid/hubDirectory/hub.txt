@@ -1,0 +1,5 @@
+hub nrf2_ko_myeloid
+shortLabel nrf2_ko_myeloid
+longLabel nrf2_ko_myeloid
+genomesFile genomes.txt
+email  xin.he@ed.ac.uk

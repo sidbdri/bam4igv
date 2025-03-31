@@ -1,8 +1,0 @@
-track KO1_Coverage
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354bc54e199efdffbd/display?to_ext=bigwig
-shortLabel KO_S12_218
-longLabel KO_S12_218
-type bigWig
-priority 1
-visibility full
-

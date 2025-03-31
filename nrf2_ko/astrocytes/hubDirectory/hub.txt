@@ -1,0 +1,5 @@
+hub nrf2_ko_astrocytes
+shortLabel nrf2_ko_astrocytes
+longLabel nrf2_ko_astrocytes
+genomesFile genomes.txt
+email  xin.he@ed.ac.uk
