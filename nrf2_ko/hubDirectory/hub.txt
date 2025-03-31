@@ -1,0 +1,5 @@
+hub nrf2_ko
+shortLabel nrf2_ko
+longLabel nrf2_ko
+genomesFile genomes.txt
+email  xin.he@ed.ac.uk
