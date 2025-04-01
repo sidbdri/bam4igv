@@ -1,4 +1,4 @@
-track KO_Composite
+track KO_saline
 compositeTrack on
 shortLabel KO Samples
 longLabel NRF2 KO Samples
@@ -6,7 +6,7 @@ visibility full
 type bigWig
 
 track KO_S2_262
-parent KO_Composite
+parent track KO_saline
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359266756b16136163/display?to_ext=bigwig
 shortLabel KO_S2_262
 longLabel KO_S2_262
@@ -15,7 +15,7 @@ priority 1
 visibility full
 
 track KO_S4_264
-parent KO_Composite
+parent track KO_saline
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351be990e373131305/display?to_ext=bigwig
 shortLabel KO_S4_264
 longLabel KO_S4_264
@@ -24,7 +24,7 @@ priority 1
 visibility full
 
 track KO_S5_265
-parent KO_Composite
+parent track KO_saline
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355307e4b9283834f0/display?to_ext=bigwig
 shortLabel KO_S5_265
 longLabel KO_S5_265
@@ -33,7 +33,7 @@ priority 1
 visibility full
 
 track KO_S8_197
-parent KO_Composite
+parent track KO_saline
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355e9df8ebea51b8a2/display?to_ext=bigwig
 shortLabel KO_S8_197
 longLabel KO_S8_197
@@ -42,7 +42,7 @@ priority 1
 visibility full
 
 track KO_S9_198
-parent KO_Composite
+parent track KO_saline
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721350336ee441690f853/display?to_ext=bigwig
 shortLabel KO_S9_198
 longLabel KO_S9_198
@@ -51,7 +51,7 @@ priority 1
 visibility full
 
 track KO_S12_218
-parent KO_Composite
+parent track KO_saline
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a2e1e0e0e52208ce/display?to_ext=bigwig
 shortLabel KO_S12_218
 longLabel KO_S12_218
@@ -59,7 +59,7 @@ type bigWig
 priority 1
 visibility full
 
-track FLOX_Composite
+track FLOX_saline
 compositeTrack on
 shortLabel FLOX Samples
 longLabel NRF2 FLOX Samples
@@ -67,7 +67,7 @@ visibility full
 type bigWig
 
 track flox_S1_261
-parent FLOX_Composite
+parent FLOX_saline
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354bc54e199efdffbd/display?to_ext=bigwig
 shortLabel flox_S1_261
 longLabel flox_S1_261
@@ -76,7 +76,7 @@ priority 1
 visibility full
 
 track flox_S3_263
-parent FLOX_Composite
+parent FLOX_saline
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721350a5d975ac32744c3/display?to_ext=bigwig
 shortLabel flox_S3_263
 longLabel flox_S3_263
@@ -85,7 +85,7 @@ priority 1
 visibility full
 
 track flox_S6_266
-parent FLOX_Composite
+parent FLOX_saline
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e5addee2affbb24c/display?to_ext=bigwig
 shortLabel flox_S6_266
 longLabel flox_S6_266
@@ -94,7 +94,7 @@ priority 1
 visibility full
 
 track flox_S7_196
-parent FLOX_Composite
+parent FLOX_saline
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359fa3918cbf5b0b8e/display?to_ext=bigwig
 shortLabel flox_S7_196
 longLabel flox_S7_196
@@ -103,7 +103,7 @@ priority 1
 visibility full
 
 track flox_S10_206
-parent FLOX_Composite
+parent FLOX_saline
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352f69c4c08e345f36/display?to_ext=bigwig
 shortLabel flox_S10_206
 longLabel flox_S10_206
@@ -112,7 +112,7 @@ priority 1
 visibility full
 
 track flox_S11_211
-parent FLOX_Composite
+parent FLOX_saline
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f18fb7e825e41106/display?to_ext=bigwig
 shortLabel flox_S11_211
 longLabel flox_S11_211
