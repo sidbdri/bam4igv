@@ -2,8 +2,6 @@ track KO_Composite
 compositeTrack on
 shortLabel KO Samples
 longLabel NRF2 KO Samples
-type bigWig
-priority 1
 visibility full
 
 track KO_S2_262
@@ -64,8 +62,6 @@ track FLOX_Composite
 compositeTrack on
 shortLabel FLOX Samples
 longLabel NRF2 FLOX Samples
-type bigWig
-priority 1
 visibility full
 
 track flox_S1_261
